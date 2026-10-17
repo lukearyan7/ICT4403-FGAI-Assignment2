@@ -1,0 +1,13 @@
+model,temperature,coherence_1_to_5,context_1_to_5,diversity_1_to_5,repetition_1_to_5,notes_from_observed_samples
+Simple RNN,0.5,,,,,
+Simple RNN,1.0,,,,,
+Simple RNN,1.5,,,,,
+Bidirectional RNN,0.5,,,,,
+Bidirectional RNN,1.0,,,,,
+Bidirectional RNN,1.5,,,,,
+LSTM,0.5,,,,,
+LSTM,1.0,,,,,
+LSTM,1.5,,,,,
+GRU,0.5,,,,,
+GRU,1.0,,,,,
+GRU,1.5,,,,,

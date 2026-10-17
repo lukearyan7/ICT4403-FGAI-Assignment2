@@ -1,0 +1,152 @@
+model,seed,temperature,generated_text
+Simple RNN,the king said,0.5,"the   king   said   to   the   people ,   i   they   the   people ,   the   had   upon   the   people   of   to   the   that   that   he   a   well ,   and"
+Simple RNN,the king said,1.0,"the   king   said   all   come ,   i   would   leader   reproof   well , 
+ as   he   do   resting !   cominius ,   if , 
+ coriolanus   course   that   now   have   shown   wish"
+Simple RNN,the king said,1.5,"the   king   said   think 
+ renowned   ruth   the   piles : hanged   intent   like   what mistake these 
+ pray , 
+ east nay - famously ' gates the   child 
+ dam   his   country ! 
+ grieves '   can"
+Simple RNN,to be or not,0.5,to   be   or   not   of   a   by   the   people   by   you   as   this   that   the   cry   did   you   of   said   o   of   spirit   of   the   his  
+Simple RNN,to be or not,1.0,"to   be   or   not   name   slay   of   demand : but   so   fair ,   which   the   laws . 
+ 
+ be   kind 
+ myself   he   i   nobler   the   strike   how   put   think"
+Simple RNN,to be or not,1.5,"to   be   or   not   heard   left ;   honours   upon em fast ? 
+ notice ' whole   rightly grain both   being   process   like   been tread despite store he   soldier , bold many .   go   thy 
+ services  "
+Simple RNN,"my lord, the",0.5,"my   lord ,   the   being   we   nothing   of   our   one   the   you   of   with   the   make   my   see   the   my   city   you   is   a   do   of  "
+Simple RNN,"my lord, the",1.0,"my   lord ,   the   example . 
+ 
+ if is   a   cowards   one ,   you   rome ,   you - curs   to't   brace   speechless   prized   ' pinched '   go   out   of   the   pikes"
+Simple RNN,"my lord, the",1.5,"my   lord ,   the   brats fault   for , lived though ended   patience ,   so : his ' seconds to '   and   bowl   thank   forced twas scotched   of   commanded   follow , 
+ hostages ; 
+ it   spirit inkling"
+Bidirectional RNN,the king said,0.5,the   king   said   have   that   faults   of   the   people   they   have   the   people ;   and   his   people   of   thee   you   for   you   with   the   country :  
+Bidirectional RNN,the king said,1.0,"the   king   said   now   the   teaches   poison'd ' as   the   hungry !   most   to   not   i '   if   were   consul :   you   would   as   most   kind   fill ? 
+"
+Bidirectional RNN,the king said,1.5,"the   king   said :   grow   house , surfeits 
+ 
+ ! ? course forgot decreed   senator all a pursue 
+ marcius :   come ,   seeing   mockery   marketplace 
+ and   accusations . masters 
+ the 
+ thither letters noise , 
+"
+Bidirectional RNN,to be or not,0.5,"to   be   or   not   you   the   people   man   our   people   the   beat   as   him   the   senate . 
+ 
+ menenius : 
+ as   the   noble   the   people   of   the   people"
+Bidirectional RNN,to be or not,1.0,"to   be   or   not   men   dispositions ,   tribunes   to   as   if 
+ gone : 
+ and .   aught . 
+ 
+ marcius : 
+ if   my   art   chaff   from   very : 
+ i'll   profess   i"
+Bidirectional RNN,to be or not,1.5,"to   be   or   not drove obey'd purposed - :   have ever motive trident   titus horses humanely 
+ mine 
+ fortune's ,   amen   salve proper 
+ was puts grecian curse , tuns that 
+ honour enough ; 
+ spoke   volsces cominius empiricutic 
+ shall  "
+Bidirectional RNN,"my lord, the",0.5,"my   lord ,   the   people , 
+ that   the   people . 
+ 
+ menenius : 
+ the   general ,   and   i   to   in   you   your   hands ,   and   the   trick   the   people ,"
+Bidirectional RNN,"my lord, the",1.0,"my   lord ,   the   would   our   contagion   of   a   vaward ,   antium   have 
+ the   sink   when   should   leave   it   how   of   soldier .   the   grave , 
+ why   but"
+Bidirectional RNN,"my lord, the",1.5,"my   lord ,   the ,   mulled 
+ you   whose   lesser   offend :   he   unkindness ;   slaves   by twas pinched pleaders me 
+ nay 
+ dozen :   wedged . 
+ stored ? we   were ;   my   ere  "
+LSTM,the king said,0.5,"the   king   said   the   if   the   his 
+ as   in   the   beat   their   speak   you   to   are   the   your   as   have   the   dearer 
+ 
+ coriolanus : 
+ and  "
+LSTM,the king said,1.0,"the   king   said   your   muse 
+ already   i   hence : 
+ should   marcius ,   wine   truly , 
+ he   by   cominius . 
+ 
+ aedile : 
+ a   them 
+ o   this   control't   over  "
+LSTM,the king said,1.5,"the   king   said think collected 
+ praise   along he   is :   titus   bowl 
+ accounted   battle twere   used : 
+ help   words   hotly , we   to   several 
+ unswept   thither   lartius threw 
+ enter'd , -"
+LSTM,to be or not,0.5,"to   be   or   not   of   you ,   it   i   all   the   marcius   the   me   in   our   a   for   to   i   me   the   can   to   the   the   see"
+LSTM,to be or not,1.0,"to   be   or   not   nuptial ;   
+ ,   might   in   set   suit   valiant 
+ the   cominius   not   body 
+ that   to   tongue   your 
+ touch   thank :   shall   the   your   for"
+LSTM,to be or not,1.5,"to   be   or   not ;   feeding show   hang   i !   pleasure   valour 
+ had -   two , marcius :   this   air but   fancy ?   is   suffer't come 
+ thing 
+ show ? 
+ gone such 
+ speak  "
+LSTM,"my lord, the",0.5,"my   lord ,   the   may   you   to   must   to   you , 
+ give   you   the   grant   in   you   it . 
+ 
+ brutus : 
+ what   to   the   holp   to   and  "
+LSTM,"my lord, the",1.0,"my   lord ,   the   slay , - ,   raised   . '   most   thee 
+ peradventure   do   your   consul . 
+ 
+ menenius : 
+ me   our   eaten   have   gods   go     em   me  "
+LSTM,"my lord, the",1.5,"my   lord ,   the   party   help , ? 
+ appear'd ! ,   carbuncle   scars   twice   out   foremost marcius revoke want   proved   mistress , 
+ undone   re ?   hand ! 
+ evil ' against fix !   indeed of"
+GRU,the king said,0.5,"the   king   said   proceed   the   stand   of   man   of 
+ a   the   of   the   up   it   i   to   the   strange 
+ what   his   noble   of   have   the  "
+GRU,the king said,1.0,"the   king   said   sicinius   to , 
+ look   it .   i   citizen   you ,   more   rome 
+ to   me   try . 
+ 
+ coriolanus : 
+ could   thunder   prevail'd   wounds   take   you ."
+GRU,the king said,1.5,"the   king   said auburn   they '   journey nourish 
+ coriolanus ,   degrees   fear   thou   heard   hands , 
+ stiff   all let   thousand ? 
+ 
+ ; ' former   manhood ,   feel   in   ports struck -"
+GRU,to be or not,0.5,"to   be   or   not   in   a   done 
+ of   the   body   with   the   own , 
+ and   and   the   him   of   other   of   the   them   with 
+ was   your   have"
+GRU,to be or not,1.0,"to   be   or   not   where's 
+ from   hate ,   by   strong ,   to   shall   know ,   so   friends   one , 
+ i'll   make   little ,   what   by   the   diversely , 
+ our  "
+GRU,to be or not,1.5,"to   be   or   not   unheard business , deaths , 
+ fill leads   most '   thy child court transport   be   would , , 
+ even ? he   beard exceeds lulls a meeting has yawn were   down : 
+ till   briers . why"
+GRU,"my lord, the",0.5,"my   lord ,   the   your   the   him   prove   to   you   with   their   people   of   this   people 
+ the   the   a   in   many   to   third 
+ 
+ to   the   the"
+GRU,"my lord, the",1.0,"my   lord ,   the   too   third , 
+ brutus   to   election   corioli   without   the   preserve   adieu , 
+ and   comes   and   know   me ,   us   glad 
+ make   for   of   edicts"
+GRU,"my lord, the",1.5,"my   lord ,   the was   body's menenius   hath limbs virtuous   ' of audible   gates use   passage   means house . 
+ ill   the   complaint   profound . 
+ the . go   fellow   courage with 
+ met cominius what's 
+  "
